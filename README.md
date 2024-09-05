@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<h1 align="left">Profile under construction</h1>
 <!--
 Hi, My name is Victor!
 
@@ -9,7 +9,7 @@ You can contact me at layadeadebayo@gmail.com
 
   I'm open to collaborating on Open Source Projects
 
-I'm learning React, Next, Typescript, Threejs, Node, and Python 
+I'm learning React, Next, Typescript, Threejs,Database, Node, and Python 
 
 Languages: HTML, CSS, JavaScript and Typescript 
 Tools and Libraries: Git, Tailwind, Reactjs, and Nextjs
