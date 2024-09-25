@@ -1,10 +1,33 @@
-## Hi there 👋
+## Hello everyone, My name is Victor!
 
-<h1 align="left">Profile under construction</h1>
+### 👋 About Me
+I’m a self-taught front-end web developer focused on continuous learning. I am equipped with the latest techniques in developing and designing responsive websites across all devices and using animations to improve user experience. When I'm not coding I teach and I listen to podcasts and read books.
+
+### 🔨 What I’m Working On
+Currently building my personal portfolio to showcase my skills and projects.
+
+### 🌱 What I’m Learning
+I'm learning more about ReactJS, Framer Motion, and Next.js to elevate my front-end development capabilities.
+
+### 🤝 Collaboration
+I'm excited to collaborate on open-source projects and share knowledge within the developer community.
+
+### 💡 Interests
+I’m exploring TypeScript, GSAP, Python, Cloud Engineering, and Databases to broaden my technical expertise.
+
+### 🧑‍💻 Seeking Help With
+Looking for guidance and mentorship in mastering TypeScript to improve my coding efficiency.
+
+### 📚 Ask Me About
+The latest book I’m reading or the podcasts I’m tuned into.
+
+### ✍️ Fun Fact
+I’m ambidextrous – I can write with both hands!
+
 
 <!--
-Hi, My name is Victor!
 
+<h1 align="left">Profile under construction</h1>
 I’m a self-taught front-end web developer focused on continuous learning. I am equipped with the latest techniques in developing and designing responsive websites across all devices and using animations to improve user experience. When I'm not coding I like to listen to podcasts and read books.
 
 You can contact me at layadeadebayo@gmail.com
