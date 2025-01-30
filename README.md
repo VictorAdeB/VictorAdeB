@@ -1,7 +1,7 @@
 ## Hello everyone, My name is Victor!
 
 ### 👋 About Me
-I’m a self-taught front-end web developer focused on continuous learning. I am equipped with the latest techniques in developing and designing responsive websites across all devices and using animations to improve user experience. When I'm not coding I teach and I listen to podcasts and read books.
+I’m a self-taught front-end web developer focused on continuous learning. I am equipped with the latest techniques in developing and designing responsive websites across all devices and using animations to improve user experience. When I'm not coding, I listen to podcasts and read books.
 
 ### 🔨 What I’m Working On
 Currently building my personal portfolio to showcase my skills and projects.
