@@ -7,16 +7,16 @@ I’m a self-taught front-end web developer focused on continuous learning. I am
 Currently building my personal portfolio to showcase my skills and projects.
 
 ### 🌱 What I’m Learning
-I'm learning more about ReactJS, Framer Motion, and Next.js to elevate my front-end development capabilities.
+I'm learning more about ReactJS, and Node.js to elevate my development capabilities.
 
 ### 🤝 Collaboration
 I'm excited to collaborate on open-source projects and share knowledge within the developer community.
 
 ### 💡 Interests
-I’m exploring TypeScript, GSAP, Python, Cloud Engineering, and Databases to broaden my technical expertise.
+I’m exploring TypeScript, Java, Backend Engineering, System Design and Databases to broaden my technical expertise.
 
 ### 🧑‍💻 Seeking Help With
-Looking for guidance and mentorship in mastering TypeScript to improve my coding efficiency.
+Looking for guidance and mentorship in mastering Java to improve my coding efficiency.
 
 ### 📚 Ask Me About
 The latest book I’m reading or the podcasts I’m tuned into.
@@ -34,11 +34,11 @@ You can contact me at layadeadebayo@gmail.com
 
   I'm open to collaborating on Open Source Projects
 
-I'm learning React, Next, Typescript, Threejs,Database, Node, and Python 
+I'm learning React, Java, Typescript and Node
 
 Languages: HTML, CSS, JavaScript and Typescript 
-Tools and Libraries: Git, Tailwind, Reactjs, and Nextjs
-Animations: GSAP and Framer Motion.
+Tools and Libraries: Git, Tailwind, and Reactjs
+Animations: Framer Motion and Rombo.
 Extras: VScode
 Here are some ideas to get you started:
 About me: 
