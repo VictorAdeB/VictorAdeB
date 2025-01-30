@@ -3,11 +3,8 @@
 ### 👋 About Me
 I’m a self-taught front-end web developer focused on continuous learning. I am equipped with the latest techniques in developing and designing responsive websites across all devices and using animations to improve user experience. When I'm not coding, I listen to podcasts and read books.
 
-### 🔨 What I’m Working On
-Currently building my personal portfolio to showcase my skills and projects.
-
 ### 🌱 What I’m Learning
-I'm learning more about ReactJS, and Node.js to elevate my development capabilities.
+I'm learning more about ReactJS, Java and Node.js to elevate my development capabilities.
 
 ### 🤝 Collaboration
 I'm excited to collaborate on open-source projects and share knowledge within the developer community.
@@ -26,7 +23,8 @@ I’m ambidextrous – I can write with both hands!
 
 
 <!--
-
+ ### 🔨 What I’m Working On
+Currently building my personal portfolio to showcase my skills and projects.
 <h1 align="left">Profile under construction</h1>
 I’m a self-taught front-end web developer focused on continuous learning. I am equipped with the latest techniques in developing and designing responsive websites across all devices and using animations to improve user experience. When I'm not coding I like to listen to podcasts and read books.
 
