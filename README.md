@@ -4,7 +4,7 @@
 I’m a self-taught front-end web developer focused on continuous learning. I am equipped with the latest techniques in developing and designing responsive websites across all devices and using animations to improve user experience. When I'm not coding, I listen to podcasts and read books.
 
 ### 🌱 What I’m Learning
-I'm learning more about ReactJS, Java and Node.js to elevate my development capabilities.
+I'm learning more about ReactJS, Java and Spring to elevate my development capabilities.
 
 ### 🤝 Collaboration
 I'm excited to collaborate on open-source projects and share knowledge within the developer community.
