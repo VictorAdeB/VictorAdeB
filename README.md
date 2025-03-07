@@ -10,7 +10,7 @@ I'm learning more about ReactJS, Java and Node.js to elevate my development capa
 I'm excited to collaborate on open-source projects and share knowledge within the developer community.
 
 ### 💡 Interests
-I’m exploring TypeScript, Java, Backend Engineering, System Design and Databases to broaden my technical expertise.
+I’m exploring Java, Backend Engineering, System Design and Databases to broaden my technical expertise.
 
 ### 🧑‍💻 Seeking Help With
 Looking for guidance and mentorship in mastering Java to improve my coding efficiency.
@@ -32,7 +32,7 @@ You can contact me at layadeadebayo@gmail.com
 
   I'm open to collaborating on Open Source Projects
 
-I'm learning React, Java, Typescript and Node
+I'm learning React, Java and Spring
 
 Languages: HTML, CSS, JavaScript and Typescript 
 Tools and Libraries: Git, Tailwind, and Reactjs
