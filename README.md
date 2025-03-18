@@ -10,7 +10,7 @@ I'm learning more about ReactJS, Java and Spring to elevate my development capab
 I'm excited to collaborate on open-source projects and share knowledge within the developer community.
 
 ### 💡 Interests
-I’m exploring Java, Backend Engineering, System Design and Databases to broaden my technical expertise.
+I’m exploring Java, Backend Engineering, DevOps and Databases to broaden my technical expertise.
 
 ### 🧑‍💻 Seeking Help With
 Looking for guidance and mentorship in mastering Java to improve my coding efficiency.
