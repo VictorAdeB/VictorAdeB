@@ -4,16 +4,16 @@
 I’m a self-taught front-end web developer focused on continuous learning. I am equipped with the latest techniques in developing and designing responsive websites across all devices and using animations to improve user experience. When I'm not coding, I listen to podcasts and read books.
 
 ### 🌱 What I’m Learning
-I'm learning more about ReactJS, Java and Spring to elevate my development capabilities.
+I'm learning more about ReactJS to elevate my development capabilities.
 
 ### 🤝 Collaboration
 I'm excited to collaborate on open-source projects and share knowledge within the developer community.
 
 ### 💡 Interests
-I’m exploring Java, Backend Engineering, DevOps and Databases to broaden my technical expertise.
+I’m exploring Cloud Engineering to broaden my technical expertise.
 
 ### 🧑‍💻 Seeking Help With
-Looking for guidance and mentorship in mastering Java to improve my coding efficiency.
+Looking for guidance and mentorship in mastering Cloud Enigneering to build cloud native applications.
 
 ### 📚 Ask Me About
 The latest book I’m reading or the podcasts I’m tuned into.
