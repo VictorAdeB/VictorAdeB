@@ -18,8 +18,8 @@ Looking for guidance and mentorship in mastering Cloud Enigneering to build clou
 ### 📚 Ask Me About
 The latest book I’m reading or the podcasts I’m tuned into.
 
-### ✍️ Fun Fact
-I’m ambidextrous – I can write with both hands!
+<!--### ✍️ Fun Fact
+I’m ambidextrous – I can write with both hands! -->
 
 
 <!--
