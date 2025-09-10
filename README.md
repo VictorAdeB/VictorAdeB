@@ -4,7 +4,7 @@
 I’m a self-taught front-end web developer focused on continuous learning. I am equipped with the latest techniques in developing and designing responsive websites across all devices and using animations to improve user experience. When I'm not coding, I listen to podcasts and read books.
 
 ### 🌱 What I’m Working on 
-I'm actively building web projects with reactjs, react native and nextjs.
+I'm actively building web and mobile projects with reactjs, react native and nextjs .
 
 <!-- ### 🤝 Collaboration
 I'm excited to collaborate on open-source projects and share knowledge within the developer community. -->
@@ -12,8 +12,8 @@ I'm excited to collaborate on open-source projects and share knowledge within th
 ### 💡 Interests
 I’m exploring Cloud Engineering to build cloud native applications.
 
-### 🧑‍💻 Seeking Help With
-Looking for guidance and mentorship in mastering Cloud Enigneering to build cloud native applications.
+<!-- ### 🧑‍💻 Seeking Help With
+Looking for guidance and mentorship in mastering Cloud Enigneering to build cloud native applications. -->
 
 ### 📚 Ask Me About
 The latest book I’m reading or the podcasts I’m tuned into.
