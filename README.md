@@ -89,12 +89,12 @@ About me:
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
 </a> -->
  <a href="https://linkedin.com/in/your-username" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
-</a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/>
+</a>&nbsp;
  <a href="https://www.linkedin.com/in/victor-layade" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="30"/>
-</a>
+</a>&nbsp;
 <a href="https://hashnode.com/@codewithval" target="_blank">
   <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
-</a>
+</a>&nbsp;
 </p>
