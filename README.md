@@ -85,4 +85,7 @@ About me:
 <a href="https://x.com/codewithavl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/victor-layade/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
 <!-- <a href="https://dev.to/avdev" target="blank"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/dev.svg" alt="DEV" height="30" width="40" /></a> -->
+ <a href="https://hashnode.com/@codewithval" target="_blank">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+</a>
 </p>
