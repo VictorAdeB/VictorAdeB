@@ -3,10 +3,10 @@
 ### 👋 About Me
 I’m a self-taught front-end web developer focused on continuous learning. I am equipped with the latest techniques in developing and designing responsive websites across all devices and using animations to improve user experience. When I'm not coding, I listen to podcasts and read books.
 
-### 🌱 What I’m Working on 
+<!-- ### ### 🌱 What I’m Working on 
 I'm actively building web and mobile projects with reactjs, react native and nextjs .
 
-<!-- ### 🤝 Collaboration
+ 🤝 Collaboration
 I'm excited to collaborate on open-source projects and share knowledge within the developer community. -->
 
 ### 💡 Interests
