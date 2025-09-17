@@ -76,7 +76,7 @@ About me:
 </div>
 <h3 align="left">Connect me on:</h3>
 <p align="left">
-<!-- <a href="https://x.com/VictorLayade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a> -->
+<a href="https://x.com/codewithavl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/victor-layade/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
 <!-- <a href="https://dev.to/avdev" target="blank"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/dev.svg" alt="DEV" height="30" width="40" /></a> -->
 </p>
