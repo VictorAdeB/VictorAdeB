@@ -10,13 +10,13 @@ I'm actively building web and mobile projects with reactjs, react native and nex
 I'm excited to collaborate on open-source projects and share knowledge within the developer community. -->
 
 ### 💡 Interests
-I’m exploring Cloud Engineering to build cloud native applications.
+I’m currently learning Cloud Engineering.
 
 <!-- ### 🧑‍💻 Seeking Help With
-Looking for guidance and mentorship in mastering Cloud Enigneering to build cloud native applications. -->
+Looking for guidance and mentorship in mastering Cloud Enigneering to build cloud native applications.
 
 ### 📚 Ask Me About
-The latest book I’m reading or the podcasts I’m tuned into.
+The latest book I’m reading or the podcasts I’m tuned into. -->
 
 <!--### ✍️ Fun Fact
 I’m ambidextrous – I can write with both hands! -->
