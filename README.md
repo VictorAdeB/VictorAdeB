@@ -1,7 +1,7 @@
 ## Hello everyone, My name is Victor!
 
 ### 👋 About Me
-I’m a self-taught front-end web developer focused on continuous learning. I am equipped with the latest techniques in developing and designing responsive websites across all devices and using animations to improve user experience. When I'm not coding, I listen to podcasts and read books.
+I started my journey as a self-taught front-end developer, building websites that are responsive, visually appealing, and easy to use. Along the way, I discovered the impact animations can have on creating smooth user experiences. Now, I’m taking my learning further by stepping into cloud engineering, with the intention of growing into that field. When I’m not coding or studying, I recharge by listening to podcasts and music.
 
 <!-- ### ### 🌱 What I’m Working on 
 I'm actively building web and mobile projects with reactjs, react native and nextjs .
