@@ -7,10 +7,10 @@ I started my journey as a self-taught front-end developer, building websites tha
 I'm actively building web and mobile projects with reactjs, react native and nextjs .
 
  🤝 Collaboration
-I'm excited to collaborate on open-source projects and share knowledge within the developer community. -->
+I'm excited to collaborate on open-source projects and share knowledge within the developer community.
 
 ### 💡 Interests
-I’m currently learning Cloud Engineering.
+I’m currently learning Cloud Engineering. -->
 
 <!-- ### 🧑‍💻 Seeking Help With
 Looking for guidance and mentorship in mastering Cloud Enigneering to build cloud native applications.
