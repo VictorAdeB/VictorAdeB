@@ -1,7 +1,7 @@
 ## Hello everyone, My name is Victor!
 
 ### 👋 About Me
-I started my journey as a self-taught front-end developer, building websites that are responsive, visually appealing, and easy to use. Along the way, I discovered the impact animations can have on creating smooth user experiences. Now, I’m taking my learning further by stepping into cloud engineering, with the intention of growing into that field. When I’m not coding or studying, I recharge by listening to podcasts and music.
+My background as a self-taught Frontend Developer taught me how to build for the user; my transition into Cloud Engineering is teaching me how to build for the world. I’ve shifted my focus from the browser to the backend, mastering AWS, Docker, and Terraform to create scalable cloud architectures. When I'm not architecting in the cloud, I’m recharging with my favorite podcasts and playlists.
 
 <!-- ### ### 🌱 What I’m Working on 
 I'm actively building web and mobile projects with reactjs, react native and nextjs .
