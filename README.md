@@ -1,7 +1,8 @@
 ## Hello everyone, My name is Victor!
 
 ### 👋 About Me
-My background as a self-taught Frontend Developer taught me how to build for the user; my transition into Cloud Engineering is teaching me how to build for the world. I’ve shifted my focus from the browser to the backend, mastering AWS, Docker, and Terraform to create scalable cloud architectures. When I'm not architecting in the cloud, I’m recharging with my favorite podcasts and playlists.
+My background as a self-taught Frontend Developer taught me how to build for the user; my transition into Cloud Engineering is teaching me how to build for the world. I’ve shifted my focus from the browser to the backend, mastering AWS, Docker, and Terraform to create scalable cloud architectures. 
+<!--When I'm not coding, I’m recharging with my favorite podcasts and playlists. -->
 
 <!-- ### ### 🌱 What I’m Working on 
 I'm actively building web and mobile projects with reactjs, react native and nextjs .
